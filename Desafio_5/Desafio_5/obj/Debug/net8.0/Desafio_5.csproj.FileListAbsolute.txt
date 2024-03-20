@@ -1,0 +1,14 @@
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\bin\Debug\net8.0\Desafio_5.exe
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\bin\Debug\net8.0\Desafio_5.deps.json
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\bin\Debug\net8.0\Desafio_5.runtimeconfig.json
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\bin\Debug\net8.0\Desafio_5.dll
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\bin\Debug\net8.0\Desafio_5.pdb
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\obj\Debug\net8.0\Desafio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\obj\Debug\net8.0\Desafio_5.AssemblyInfoInputs.cache
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\obj\Debug\net8.0\Desafio_5.AssemblyInfo.cs
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\obj\Debug\net8.0\Desafio_5.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\obj\Debug\net8.0\Desafio_5.dll
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\obj\Debug\net8.0\refint\Desafio_5.dll
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\obj\Debug\net8.0\Desafio_5.pdb
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\obj\Debug\net8.0\Desafio_5.genruntimeconfig.cache
+C:\Users\Felipe Brandão\PROGRAMACAO\Desafios_Target\Desafio_5\Desafio_5\obj\Debug\net8.0\ref\Desafio_5.dll
